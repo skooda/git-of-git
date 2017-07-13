@@ -3,3 +3,4 @@ cb9ee6873f5dd1c477f63a9dc9443210608f956b fd24b1498b87a445093a98dc303de2e986d7d73
 fd24b1498b87a445093a98dc303de2e986d7d73f fd24b1498b87a445093a98dc303de2e986d7d73f Pavel Skoda <pavel.skoda@heureka.cz> 1499986371 +0200	checkout: moving from master to some_branch
 fd24b1498b87a445093a98dc303de2e986d7d73f d2c87734c17c7b887f1e7b9d0a47ce2b1e645b75 Pavel Skoda <pavel.skoda@heureka.cz> 1499986679 +0200	commit: Add some_branch_file
 d2c87734c17c7b887f1e7b9d0a47ce2b1e645b75 fd24b1498b87a445093a98dc303de2e986d7d73f Pavel Skoda <pavel.skoda@heureka.cz> 1499987005 +0200	checkout: moving from some_branch to master
+fd24b1498b87a445093a98dc303de2e986d7d73f d2c87734c17c7b887f1e7b9d0a47ce2b1e645b75 Pavel Skoda <pavel.skoda@heureka.cz> 1499987195 +0200	merge some_branch: Fast-forward
